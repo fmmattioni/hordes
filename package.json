@@ -9,8 +9,7 @@
         "languages"
     ],
     "scripts": {
-        "test": "mocha --reporter spec",
-        "postinstall": "Rscript -e 'source(\"install.R\")'"
+        "test": "mocha --reporter spec"
     },
     "author": "Colin Fay <contact@colinfay.me> (https://colinfay.me)",
     "license": "MIT",
